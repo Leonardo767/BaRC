@@ -2,7 +2,7 @@ import os, errno
 import numpy as np
 from numpy.random import choice
 from plotting_with_theta_sections import visualize_eval
-from rl import rl_utils
+from code.rl import rl_utils
 
 #############
 # Selecting #
